@@ -1,0 +1,21 @@
+<script src="script.js"></script>
+<link rel="stylesheet" href="style.css">
+
+<header>
+    Spritz Knockoff
+</header>
+
+<div id="main">
+    <div id="mainText">
+    Words
+    </div>
+</div>
+
+<footer>
+    <textarea id="inText" placeholder="Place text here..."></textarea>
+    <div id="rangeBox">
+        <input id="range" type="range" min="30" max="720" value="120" oninput="updateRange()">
+        <div id="rangeVal">Words per Minute: 120</div>
+    </div>
+    <button onclick="playWords()">Start playing!</button>
+</footer>
