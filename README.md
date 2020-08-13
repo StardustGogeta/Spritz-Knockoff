@@ -1,6 +1,6 @@
 # Spritz Knockoff
 
-![Sample Image](sampleImage.png)
+![Sample Image](sampleImage.PNG)
 
 A basic clone of the [Spritz](https://spritz.com) speed-reading website. Their claim is that it is easier and more efficient to read text in a single location on a page. I'll let you be the judge of that.
 
