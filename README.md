@@ -1,5 +1,7 @@
 # Spritz Knockoff
 
+![Sample Image](sampleImage.png)
+
 A basic clone of the [Spritz](https://spritz.com) speed-reading website. Their claim is that it is easier and more efficient to read text in a single location on a page. I'll let you be the judge of that.
 
 Simply open `main.html`, put some text into the textbox, and click the button.
